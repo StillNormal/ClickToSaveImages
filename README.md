@@ -1,3 +1,7 @@
+#
+- [English document](README.md)
+- [中文文档](README-zh.md)
+
 # What is
 A Chrome Extension. Use your right mouse click to save images on website.
 
